@@ -1,0 +1,25 @@
+.article-title h1 {
+
+    
+  }
+
+  .article-description h3 {
+    
+  }
+
+  .article-img-container {
+    
+
+    margin: 0 auto;
+  }
+
+  .article-img-container img {
+    width: 100%;
+    height: auto;
+  }
+
+  .article-content {
+ 
+    margin: 0 auto;
+    
+  }

@@ -1,0 +1,30 @@
+.article-title h1 {
+
+    color: crimson;
+    font-weight: bolder;
+    text-align: center;
+  }
+
+  .article-description h3 {
+    text-align: center;
+    color: blueviolet;
+  }
+
+  .article-img-container {
+    width: 50%;
+
+    margin: 0 auto;
+  }
+
+  .article-img-container img {
+    width: 100%;
+    height: auto;
+  }
+
+  .article-content {
+    width: 80%;
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 0.5rem;
+    background-color: lightsalmon;
+  }
